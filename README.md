@@ -1,7 +1,7 @@
 # Airline-Ticket-Reservation-Project
 This is a simple console-based Airline Ticket Reservation System built using C++. The program allows users to view available flights and reserve a seat if available. It uses file handling to store and update flight data.
 
-✅ Features:
+Features:
 View flight details (Flight No, Destination, Departure, Seats)
 
 Reserve a seat by entering the flight number
